@@ -1,2 +1,1 @@
-This is a test
-test part 2fsfsdfsfdgdg
+changes to make git without -m work
